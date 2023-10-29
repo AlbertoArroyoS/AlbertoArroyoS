@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Me llamo Alberto Arroyo</h1>
 <h3 align="center">Soy un estudiante apasionado del desarrollo de software</h3>
 
-- Estoy estudiando Desarrollo de Aplicaciones Multiplataforma con especialidad en DevOps (DAM).  **Java , Python , JavaScript, SQL, PL/SQL, HTML, CSS**
+- Estoy estudiando Desarrollo de Aplicaciones Multiplataforma con especialidad en DevOps (DAM).  ** Java , Python , JavaScript, SQL, PL/SQL, HTML, CSS **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
