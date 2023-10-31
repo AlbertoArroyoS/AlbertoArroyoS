@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Me llamo Alberto Arroyo</h1>
+<h1 align="center">Hola 👋. Me llamo Alberto Arroyo</h1>
 <h3 align="center">Soy un estudiante apasionado del desarrollo de software</h3>
 
 - Estoy estudiando Desarrollo de Aplicaciones Multiplataforma con especialidad en DevOps (DAM).
