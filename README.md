@@ -2,7 +2,7 @@
 <h3 align="center">Soy un estudiante apasionado del desarrollo de software</h3>
 
 - Estoy estudiando Desarrollo de Aplicaciones Multiplataforma con especialidad en DevOps (DAM).
-- **Java , Python , JavaScript, SQL, PL/SQL, HTML, CSS**
+- **Java , Python , JavaScript, SQL, PL/SQL, HTML, CSS, Git**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
