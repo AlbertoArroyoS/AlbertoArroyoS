@@ -1,6 +1,7 @@
 <h1 align="center">Hola 👋. Me llamo Alberto Arroyo</h1>
 
-<img align="center" src="https://github.com/AlbertoArroyoS/FelicitacionNavidad/blob/main/imgReadme/logotipo_nombre.png">
+<p align="center"> <img src="https://github.com/AlbertoArroyoS/FelicitacionNavidad/blob/main/imgReadme/logotipo_nombre.png"> </p>
+
 
 <h3 align="center">Soy un estudiante apasionado del desarrollo de software</h3>
 
