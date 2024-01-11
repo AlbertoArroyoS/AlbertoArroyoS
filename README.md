@@ -1,4 +1,7 @@
 <h1 align="center">Hola 👋. Me llamo Alberto Arroyo</h1>
+
+<img src="https://github.com/AlbertoArroyoS/FelicitacionNavidad/blob/main/AppFelicitacionNavidad/app/src/main/res/drawable/logotipo_nombre8.png">
+
 <h3 align="center">Soy un estudiante apasionado del desarrollo de software</h3>
 
 - Estoy estudiando Desarrollo de Aplicaciones Multiplataforma con especialidad en DevOps (DAM).
