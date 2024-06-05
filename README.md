@@ -3,10 +3,10 @@
 <p align="center"> <img src="https://github.com/AlbertoArroyoS/FelicitacionNavidad/blob/main/imgReadme/logotipo_nombre.png"> </p>
 
 
-## <h3>Soy un estudiante apasionado del desarrollo de software</h3>
+## <h3>Desarrollador de Aplicaciones Multiplataforma ➡️ Software Developer</h3>
 
-- Estoy estudiando Desarrollo de Aplicaciones Multiplataforma con especialidad en DevOps (DAM).
-- **Java , Python , JavaScript, SQL, PL/SQL, HTML, CSS, Git**
+- Desarrollo de Aplicaciones Multiplataforma con especialidad en DevOps (DAM).
+- **Java , Python , JavaScript, Typescript, Spring Boot, API REST, Angular, SQL, PL/SQL, HTML, CSS, Git, Android Studio**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
