@@ -12,8 +12,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/albertoarroyosantofimia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="albertoarroyosantofimia" height="30" width="40" /></a>
 </p>
+<h3>My Skills</h3>
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,js,ts,spring,androidstudio,angular,bootstrap,html,css,mysql,postgres,firebase,unity,flask,git,github,postman" />
   </a>
